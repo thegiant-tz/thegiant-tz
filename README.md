@@ -37,7 +37,7 @@
     </a>
   </p> -->
   
-<img width=100% height=200px alt="Shebyclassic2018's Github Stats" src="https://github-readme-stats.vercel.app/api?username=shebyclassic2018&show_icons=true&hide_border=true&count_private=true&theme=dark&bg_color=0D1117" />  
+<img width=100% height=200px alt="Shebyclassic2018's Github Stats" src="https://github-readme-stats.vercel.app/api?username=thegiant-tz&show_icons=true&hide_border=true&count_private=true&theme=dark&bg_color=0D1117" />  
 
 ### About Me
 > Hi there! 👋 <br>
